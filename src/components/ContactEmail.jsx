@@ -25,7 +25,7 @@ const ContactEmail = () => {
             Илгээх
           </a>
         </div>
-        <p className="text-sm w-[60ch]">
+        <p className="text-sm w-[30ch]">
           Бид таны мэдээллийг хамгаалах талаар санаа тавьдаг. Та манай{" "}
           <a
             href="#"
