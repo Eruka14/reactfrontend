@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className="max-w-[1240px] mx-auto p-4 flex flex-col gap-10 my-10 md:flex-row md:justify-between">
+    <div className="max-w-[1240px] mx-auto p-4 flex flex-col gap-10 my-20 md:flex-row md:justify-between">
       <div className="flex flex-col gap-5">
         <h1 className="text-2xl md:text-3xl font-bold text-green-400">
           ViReact

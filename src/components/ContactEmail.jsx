@@ -2,7 +2,7 @@ import React from "react";
 
 const ContactEmail = () => {
   return (
-    <div className="max-w-[1240px] mx-auto p-4 flex flex-col gap-2 md:flex-row md:justify-between my-10">
+    <div className="max-w-[1240px] mx-auto p-4 flex flex-col gap-2 md:flex-row md:justify-between my-20">
       <div className="flex flex-col gap-2 md:flex-2">
         <h2 className="text-md font-bold md:text-xl">
           Та ямар нэгэн зөвлөгөө авахыг хүсэж байна уу?
@@ -25,7 +25,7 @@ const ContactEmail = () => {
             Илгээх
           </a>
         </div>
-        <p className="text-sm w-[30ch]">
+        <p className="text-sm w-[40ch]">
           Бид таны мэдээллийг хамгаалах талаар санаа тавьдаг. Та манай{" "}
           <a
             href="#"
