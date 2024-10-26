@@ -28,7 +28,9 @@ const Pricing = () => {
           user="Users"
           limit={10}
           styles={"bg-gray-100 scale-105 hover:scale-110"}
-          buttonStyles="bg-black text-green-400 hover:bg-gray-900 hover:text-white"
+          buttonStyles={
+            "bg-gray-800 text-green-400 hover:bg-slate-800 hover:text-white"
+          }
         />
         <PriceComp
           image={Triple}

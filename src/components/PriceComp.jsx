@@ -30,7 +30,7 @@ const PriceComp = ({
         {limit} {storageUnit} Оролтын хязгаар
       </p>
       <button
-        className={`${buttonStyles} bg-green-400 max-w-fit text-gray-700 px-20 py-2 rounded-md font-bold hover:bg-green-600 hover:text-white duration-300 mx-auto md:mx-0 text-center my-5 `}
+        className={` bg-green-400 max-w-fit text-gray-700 px-20 py-2 rounded-md font-bold hover:bg-green-600 hover:text-white duration-300 mx-auto md:mx-0 text-center my-5 ${buttonStyles}`}
       >
         Эхлэх
       </button>
